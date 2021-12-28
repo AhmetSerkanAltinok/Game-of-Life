@@ -1,2 +1,2 @@
 # Game-of-Life
-A very basic version of the game of life
+A very basic implementation of the Game of Life by John Conway
